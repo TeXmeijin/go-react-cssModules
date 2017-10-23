@@ -66,7 +66,3 @@ total 9936
 ## License
 
 Licensed under the [MIT](/LICENSE.txt) license.
-# go-react-cssModules
-# go-react-cssModules
-# go-react-cssModules
-# go-react-cssModules
